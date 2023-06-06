@@ -14,3 +14,11 @@ C:\Users\antev\OneDrive\Radna površina\DrawingBoardForProjects\ProjectTest02\ob
 C:\Users\antev\OneDrive\Radna površina\DrawingBoardForProjects\ProjectTest02\obj\Debug\DAL.csproj.CoreCompileInputs.cache
 C:\Users\antev\OneDrive\Radna površina\DrawingBoardForProjects\ProjectTest02\obj\Debug\ProjectTest02.exe
 C:\Users\antev\OneDrive\Radna površina\DrawingBoardForProjects\ProjectTest02\obj\Debug\ProjectTest02.pdb
+C:\Users\Korisnik\Source\Repos\PRA_TIM03_PREDAJA\ProjectTest02\bin\Debug\ProjectTest02.exe.config
+C:\Users\Korisnik\Source\Repos\PRA_TIM03_PREDAJA\ProjectTest02\bin\Debug\ProjectTest02.exe
+C:\Users\Korisnik\Source\Repos\PRA_TIM03_PREDAJA\ProjectTest02\bin\Debug\ProjectTest02.pdb
+C:\Users\Korisnik\Source\Repos\PRA_TIM03_PREDAJA\ProjectTest02\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Source\Repos\PRA_TIM03_PREDAJA\ProjectTest02\obj\Debug\DAL.csproj.SuggestedBindingRedirects.cache
+C:\Users\Korisnik\Source\Repos\PRA_TIM03_PREDAJA\ProjectTest02\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Source\Repos\PRA_TIM03_PREDAJA\ProjectTest02\obj\Debug\ProjectTest02.exe
+C:\Users\Korisnik\Source\Repos\PRA_TIM03_PREDAJA\ProjectTest02\obj\Debug\ProjectTest02.pdb

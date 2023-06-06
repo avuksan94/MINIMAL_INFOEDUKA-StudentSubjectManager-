@@ -106,3 +106,39 @@ C:\Users\antev\OneDrive\Radna površina\Za predaju\DrawingBoardForProjects\Minim
 C:\Users\antev\OneDrive\Radna površina\Za predaju\DrawingBoardForProjects\Minimal_Infoeduka\obj\Debug\net6.0-windows\Minimal_Infoeduka.pdb
 C:\Users\antev\OneDrive\Radna površina\Za predaju\DrawingBoardForProjects\Minimal_Infoeduka\obj\Debug\net6.0-windows\Minimal_Infoeduka.genruntimeconfig.cache
 C:\Users\antev\OneDrive\Radna površina\Za predaju\DrawingBoardForProjects\Minimal_Infoeduka\obj\Debug\net6.0-windows\ref\Minimal_Infoeduka.dll
+C:\Users\Korisnik\Source\Repos\PRA_TIM03_PREDAJA\Minimal_Infoeduka\bin\Debug\net6.0-windows\Minimal_Infoeduka.exe
+C:\Users\Korisnik\Source\Repos\PRA_TIM03_PREDAJA\Minimal_Infoeduka\bin\Debug\net6.0-windows\Minimal_Infoeduka.deps.json
+C:\Users\Korisnik\Source\Repos\PRA_TIM03_PREDAJA\Minimal_Infoeduka\bin\Debug\net6.0-windows\Minimal_Infoeduka.runtimeconfig.json
+C:\Users\Korisnik\Source\Repos\PRA_TIM03_PREDAJA\Minimal_Infoeduka\bin\Debug\net6.0-windows\Minimal_Infoeduka.dll
+C:\Users\Korisnik\Source\Repos\PRA_TIM03_PREDAJA\Minimal_Infoeduka\bin\Debug\net6.0-windows\Minimal_Infoeduka.pdb
+C:\Users\Korisnik\Source\Repos\PRA_TIM03_PREDAJA\Minimal_Infoeduka\bin\Debug\net6.0-windows\ProjectTest02.exe
+C:\Users\Korisnik\Source\Repos\PRA_TIM03_PREDAJA\Minimal_Infoeduka\bin\Debug\net6.0-windows\ProjectTest02.pdb
+C:\Users\Korisnik\Source\Repos\PRA_TIM03_PREDAJA\Minimal_Infoeduka\bin\Debug\net6.0-windows\ProjectTest02.exe.config
+C:\Users\Korisnik\Source\Repos\PRA_TIM03_PREDAJA\Minimal_Infoeduka\obj\Debug\net6.0-windows\Minimal_Infoeduka.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Source\Repos\PRA_TIM03_PREDAJA\Minimal_Infoeduka\obj\Debug\net6.0-windows\Minimal_Infoeduka.AdminDashboard.resources
+C:\Users\Korisnik\Source\Repos\PRA_TIM03_PREDAJA\Minimal_Infoeduka\obj\Debug\net6.0-windows\Minimal_Infoeduka.LecturerDashboard.resources
+C:\Users\Korisnik\Source\Repos\PRA_TIM03_PREDAJA\Minimal_Infoeduka\obj\Debug\net6.0-windows\Minimal_Infoeduka.LecturersControl.resources
+C:\Users\Korisnik\Source\Repos\PRA_TIM03_PREDAJA\Minimal_Infoeduka\obj\Debug\net6.0-windows\Minimal_Infoeduka.LecturerSubForms.AddLecturer.resources
+C:\Users\Korisnik\Source\Repos\PRA_TIM03_PREDAJA\Minimal_Infoeduka\obj\Debug\net6.0-windows\Minimal_Infoeduka.LecturerSubForms.EditLecturer.resources
+C:\Users\Korisnik\Source\Repos\PRA_TIM03_PREDAJA\Minimal_Infoeduka\obj\Debug\net6.0-windows\Minimal_Infoeduka.LecturerSubjects.resources
+C:\Users\Korisnik\Source\Repos\PRA_TIM03_PREDAJA\Minimal_Infoeduka\obj\Debug\net6.0-windows\Minimal_Infoeduka.LoginForm.resources
+C:\Users\Korisnik\Source\Repos\PRA_TIM03_PREDAJA\Minimal_Infoeduka\obj\Debug\net6.0-windows\Minimal_Infoeduka.NotificationControl.resources
+C:\Users\Korisnik\Source\Repos\PRA_TIM03_PREDAJA\Minimal_Infoeduka\obj\Debug\net6.0-windows\Minimal_Infoeduka.NotificationSubForms.EditNotification.resources
+C:\Users\Korisnik\Source\Repos\PRA_TIM03_PREDAJA\Minimal_Infoeduka\obj\Debug\net6.0-windows\Minimal_Infoeduka.NotificationSubForms.SelectiveViewNotifications.resources
+C:\Users\Korisnik\Source\Repos\PRA_TIM03_PREDAJA\Minimal_Infoeduka\obj\Debug\net6.0-windows\Minimal_Infoeduka.NotificationSubForms.SendNotification.resources
+C:\Users\Korisnik\Source\Repos\PRA_TIM03_PREDAJA\Minimal_Infoeduka\obj\Debug\net6.0-windows\Minimal_Infoeduka.NotificationSubForms.ViewAllNotifications.resources
+C:\Users\Korisnik\Source\Repos\PRA_TIM03_PREDAJA\Minimal_Infoeduka\obj\Debug\net6.0-windows\Minimal_Infoeduka.SubjectsControl.resources
+C:\Users\Korisnik\Source\Repos\PRA_TIM03_PREDAJA\Minimal_Infoeduka\obj\Debug\net6.0-windows\Minimal_Infoeduka.SubjectSubForms.AddSubject.resources
+C:\Users\Korisnik\Source\Repos\PRA_TIM03_PREDAJA\Minimal_Infoeduka\obj\Debug\net6.0-windows\Minimal_Infoeduka.SubjectSubForms.DisplaySubjectData.resources
+C:\Users\Korisnik\Source\Repos\PRA_TIM03_PREDAJA\Minimal_Infoeduka\obj\Debug\net6.0-windows\Minimal_Infoeduka.SubjectSubForms.EditSubject.resources
+C:\Users\Korisnik\Source\Repos\PRA_TIM03_PREDAJA\Minimal_Infoeduka\obj\Debug\net6.0-windows\Minimal_Infoeduka.csproj.GenerateResource.cache
+C:\Users\Korisnik\Source\Repos\PRA_TIM03_PREDAJA\Minimal_Infoeduka\obj\Debug\net6.0-windows\Minimal_Infoeduka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korisnik\Source\Repos\PRA_TIM03_PREDAJA\Minimal_Infoeduka\obj\Debug\net6.0-windows\Minimal_Infoeduka.AssemblyInfoInputs.cache
+C:\Users\Korisnik\Source\Repos\PRA_TIM03_PREDAJA\Minimal_Infoeduka\obj\Debug\net6.0-windows\Minimal_Infoeduka.AssemblyInfo.cs
+C:\Users\Korisnik\Source\Repos\PRA_TIM03_PREDAJA\Minimal_Infoeduka\obj\Debug\net6.0-windows\Minimal_Infoeduka.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Source\Repos\PRA_TIM03_PREDAJA\Minimal_Infoeduka\obj\Debug\net6.0-windows\Minimal_Infoeduka.csproj.CopyComplete
+C:\Users\Korisnik\Source\Repos\PRA_TIM03_PREDAJA\Minimal_Infoeduka\obj\Debug\net6.0-windows\Minimal_Infoeduka.dll
+C:\Users\Korisnik\Source\Repos\PRA_TIM03_PREDAJA\Minimal_Infoeduka\obj\Debug\net6.0-windows\refint\Minimal_Infoeduka.dll
+C:\Users\Korisnik\Source\Repos\PRA_TIM03_PREDAJA\Minimal_Infoeduka\obj\Debug\net6.0-windows\Minimal_Infoeduka.pdb
+C:\Users\Korisnik\Source\Repos\PRA_TIM03_PREDAJA\Minimal_Infoeduka\obj\Debug\net6.0-windows\Minimal_Infoeduka.genruntimeconfig.cache
+C:\Users\Korisnik\Source\Repos\PRA_TIM03_PREDAJA\Minimal_Infoeduka\obj\Debug\net6.0-windows\ref\Minimal_Infoeduka.dll

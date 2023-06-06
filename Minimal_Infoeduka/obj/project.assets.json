@@ -26,19 +26,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\antev\\.nuget\\packages\\": {}
+    "C:\\Users\\Korisnik\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\antev\\OneDrive\\Radna površina\\Za predaju\\DrawingBoardForProjects\\Minimal_Infoeduka\\Minimal_Infoeduka.csproj",
+      "projectUniqueName": "C:\\Users\\Korisnik\\Source\\Repos\\PRA_TIM03_PREDAJA\\Minimal_Infoeduka\\Minimal_Infoeduka.csproj",
       "projectName": "Minimal_Infoeduka",
-      "projectPath": "C:\\Users\\antev\\OneDrive\\Radna površina\\Za predaju\\DrawingBoardForProjects\\Minimal_Infoeduka\\Minimal_Infoeduka.csproj",
-      "packagesPath": "C:\\Users\\antev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\antev\\OneDrive\\Radna površina\\Za predaju\\DrawingBoardForProjects\\Minimal_Infoeduka\\obj\\",
+      "projectPath": "C:\\Users\\Korisnik\\Source\\Repos\\PRA_TIM03_PREDAJA\\Minimal_Infoeduka\\Minimal_Infoeduka.csproj",
+      "packagesPath": "C:\\Users\\Korisnik\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Korisnik\\Source\\Repos\\PRA_TIM03_PREDAJA\\Minimal_Infoeduka\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\antev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Korisnik\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -52,8 +52,8 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\Users\\antev\\OneDrive\\Radna površina\\Za predaju\\DrawingBoardForProjects\\ProjectTest02\\DAL.csproj": {
-              "projectPath": "C:\\Users\\antev\\OneDrive\\Radna površina\\Za predaju\\DrawingBoardForProjects\\ProjectTest02\\DAL.csproj"
+            "C:\\Users\\Korisnik\\Source\\Repos\\PRA_TIM03_PREDAJA\\ProjectTest02\\DAL.csproj": {
+              "projectPath": "C:\\Users\\Korisnik\\Source\\Repos\\PRA_TIM03_PREDAJA\\ProjectTest02\\DAL.csproj"
             }
           }
         }
@@ -86,7 +86,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }

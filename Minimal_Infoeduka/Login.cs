@@ -29,7 +29,24 @@ namespace Minimal_Infoeduka
 
         private void LoginForm_Load(object sender, EventArgs e)
         {
+            btnLogin.FlatAppearance.BorderSize = 2;
+            btnLogin.Region = new Region(new Rectangle(0, 0, btnLogin.Width, btnLogin.Height));
 
+            System.Drawing.Drawing2D.GraphicsPath path = new System.Drawing.Drawing2D.GraphicsPath();
+            int borderRadius = 66;
+
+            path.AddArc(0, 0, borderRadius, borderRadius, 180, 90);
+            path.AddArc(btnLogin.Width - borderRadius, 0, borderRadius, borderRadius, 270, 90);
+            path.AddArc(btnLogin.Width - borderRadius, btnLogin.Height - borderRadius, borderRadius, borderRadius, 0, 90);
+            path.AddArc(0, btnLogin.Height - borderRadius, borderRadius, borderRadius, 90, 90);
+
+            btnLogin.Region = new Region(path);
+
+            //EXIT BUTTON 
+            btnExit.FlatAppearance.BorderSize = 2;
+            btnExit.Region = new Region(new Rectangle(0, 0, btnLogin.Width, btnLogin.Height));
+
+            btnExit.Region = new Region(path);
         }
 
         private void btnLogin_Click(object sender, EventArgs e)
