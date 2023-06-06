@@ -79,6 +79,20 @@ namespace ProjectTest02.Services
         {
             LoadAllNotifications();
         
+            var validationResults = new List<ValidationResult>();
+            var validationContext = new ValidationContext(notification, serviceProvider: null, items: null);
+            bool isValid = Validator.TryValidateObject(notification, validationContext, validationResults, true);
+        
+            if (!isValid)
+            {
+                foreach (var validationResult in validationResults)
+                {
+                    Console.WriteLine(validationResult.ErrorMessage);
+                }
+        
+                throw new ArgumentException("Invalid notification data");
+            }
+        
             notification.Id = _counterNotifications.GetNextId();
             _notifications.Add(notification);
         
