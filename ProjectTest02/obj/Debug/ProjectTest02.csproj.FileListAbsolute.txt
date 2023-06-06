@@ -1,0 +1,8 @@
+C:\Users\antev\source\repos\OOPdotNet\DrawingBoardForProjects\ProjectTest02\bin\Debug\ProjectTest02.exe.config
+C:\Users\antev\source\repos\OOPdotNet\DrawingBoardForProjects\ProjectTest02\bin\Debug\ProjectTest02.exe
+C:\Users\antev\source\repos\OOPdotNet\DrawingBoardForProjects\ProjectTest02\bin\Debug\ProjectTest02.pdb
+C:\Users\antev\source\repos\OOPdotNet\DrawingBoardForProjects\ProjectTest02\obj\Debug\ProjectTest02.csproj.AssemblyReference.cache
+C:\Users\antev\source\repos\OOPdotNet\DrawingBoardForProjects\ProjectTest02\obj\Debug\ProjectTest02.csproj.SuggestedBindingRedirects.cache
+C:\Users\antev\source\repos\OOPdotNet\DrawingBoardForProjects\ProjectTest02\obj\Debug\ProjectTest02.csproj.CoreCompileInputs.cache
+C:\Users\antev\source\repos\OOPdotNet\DrawingBoardForProjects\ProjectTest02\obj\Debug\ProjectTest02.exe
+C:\Users\antev\source\repos\OOPdotNet\DrawingBoardForProjects\ProjectTest02\obj\Debug\ProjectTest02.pdb

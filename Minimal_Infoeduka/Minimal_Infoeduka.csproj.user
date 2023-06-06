@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AdminDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LecturerDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LecturersControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="LecturerSubForms\AddLecturer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LecturerSubForms\EditLecturer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LecturerSubjects.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="NotificationControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="NotificationSubForms\EditNotification.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NotificationSubForms\SelectiveViewNotifications.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NotificationSubForms\SendNotification.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NotificationSubForms\ViewAllNotifications.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SubjectsControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="SubjectSubForms\AddSubject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SubjectSubForms\DisplaySubjectData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SubjectSubForms\EditSubject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
