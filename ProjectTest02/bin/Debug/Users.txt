@@ -4,3 +4,4 @@ Administrator||pperic|1234|True
 Administrator||pperic|1234|True
 Administrator|pperic@gmail.com|pperic|1234|True
 Administrator|pperic@gmail.com|pperic|1234|True
+Administrator|pperic@gmail.com|pperic|1234|True

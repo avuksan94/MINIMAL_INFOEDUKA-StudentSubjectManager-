@@ -26,19 +26,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Tomi\\.nuget\\packages\\": {}
+    "C:\\Users\\hrcof\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tomi\\Source\\Repos\\PRA_TIM03_PREDAJA\\Minimal_Infoeduka\\Minimal_Infoeduka.csproj",
+      "projectUniqueName": "C:\\Users\\hrcof\\Desktop\\PRA PROJEKTIC\\Minimal_Infoeduka\\Minimal_Infoeduka.csproj",
       "projectName": "Minimal_Infoeduka",
-      "projectPath": "C:\\Users\\Tomi\\Source\\Repos\\PRA_TIM03_PREDAJA\\Minimal_Infoeduka\\Minimal_Infoeduka.csproj",
-      "packagesPath": "C:\\Users\\Tomi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tomi\\Source\\Repos\\PRA_TIM03_PREDAJA\\Minimal_Infoeduka\\obj\\",
+      "projectPath": "C:\\Users\\hrcof\\Desktop\\PRA PROJEKTIC\\Minimal_Infoeduka\\Minimal_Infoeduka.csproj",
+      "packagesPath": "C:\\Users\\hrcof\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\hrcof\\Desktop\\PRA PROJEKTIC\\Minimal_Infoeduka\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Tomi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\hrcof\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -52,8 +52,8 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\Users\\Tomi\\Source\\Repos\\PRA_TIM03_PREDAJA\\ProjectTest02\\DAL.csproj": {
-              "projectPath": "C:\\Users\\Tomi\\Source\\Repos\\PRA_TIM03_PREDAJA\\ProjectTest02\\DAL.csproj"
+            "C:\\Users\\hrcof\\Desktop\\PRA PROJEKTIC\\ProjectTest02\\DAL.csproj": {
+              "projectPath": "C:\\Users\\hrcof\\Desktop\\PRA PROJEKTIC\\ProjectTest02\\DAL.csproj"
             }
           }
         }
@@ -86,7 +86,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

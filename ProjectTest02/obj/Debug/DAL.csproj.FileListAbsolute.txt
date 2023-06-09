@@ -22,3 +22,11 @@ C:\Users\Korisnik\Source\Repos\PRA_TIM03_PREDAJA\ProjectTest02\obj\Debug\DAL.csp
 C:\Users\Korisnik\Source\Repos\PRA_TIM03_PREDAJA\ProjectTest02\obj\Debug\DAL.csproj.CoreCompileInputs.cache
 C:\Users\Korisnik\Source\Repos\PRA_TIM03_PREDAJA\ProjectTest02\obj\Debug\ProjectTest02.exe
 C:\Users\Korisnik\Source\Repos\PRA_TIM03_PREDAJA\ProjectTest02\obj\Debug\ProjectTest02.pdb
+C:\Users\hrcof\Desktop\PRA PROJEKTIC\ProjectTest02\bin\Debug\ProjectTest02.exe.config
+C:\Users\hrcof\Desktop\PRA PROJEKTIC\ProjectTest02\bin\Debug\ProjectTest02.exe
+C:\Users\hrcof\Desktop\PRA PROJEKTIC\ProjectTest02\bin\Debug\ProjectTest02.pdb
+C:\Users\hrcof\Desktop\PRA PROJEKTIC\ProjectTest02\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\hrcof\Desktop\PRA PROJEKTIC\ProjectTest02\obj\Debug\DAL.csproj.SuggestedBindingRedirects.cache
+C:\Users\hrcof\Desktop\PRA PROJEKTIC\ProjectTest02\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\hrcof\Desktop\PRA PROJEKTIC\ProjectTest02\obj\Debug\ProjectTest02.exe
+C:\Users\hrcof\Desktop\PRA PROJEKTIC\ProjectTest02\obj\Debug\ProjectTest02.pdb

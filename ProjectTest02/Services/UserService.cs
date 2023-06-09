@@ -199,6 +199,7 @@ namespace ProjectTest02.Services
             if (!File.Exists(UsersFileName))
             {
                 File.Create(UsersFileName).Close();
+                File.WriteAllText(UsersFileName, "Administrator|admin@gmail.com|admin|admin|True");
             }
         }
     }
